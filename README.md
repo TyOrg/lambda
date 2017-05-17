@@ -7,7 +7,7 @@ Lessons: {
   "allLessons" :  "Branched",
   "alsoOn" : "codePen.io",
   lessons [
-    {"lesson1_url" :  "https://codepen.io/godcsu/pen/mmGeOo"}
+    {"lesson1_url" :  " https://codepen.io/godcsu/pen/mmGeOo "}
   ]
 }
 
