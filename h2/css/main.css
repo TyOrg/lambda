@@ -1,0 +1,144 @@
+.navbar {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 0px auto;
+	background: rgba(0,0,0,0);
+	opacity: 1; 
+}
+
+
+
+.navbar ul li a:hover, .navbar ul li a:visited, .navbar ul li a:active, .navbar ul li a:focus {
+	text-decoration: none;
+	background-color: transparent;
+	outline: none;
+}
+
+.navbar li a {
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+	text-decoration: none;
+	transition: all 0.4s;
+	text-decoration-color: none;
+}
+
+
+
+.navbar-brand {
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+	text-decoration: none;
+	transition: all 0.4s;
+}
+/*WORKING*/
+.fa-bars {
+	color: white;
+}
+
+.jumbotron {
+	height: 500px;
+	background-image: url("/img/header.jpg");
+	color: white;
+}
+
+.img-responsive {
+ margin: 0 auto;
+}
+
+.subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-weight: 300;
+  padding: 10px
+}
+
+p {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+blockquote {
+	font-size: 20px;
+	font-style: italic;
+}
+
+footer {
+	border-top: 1px solid silver;
+	text-align: center;
+	font-style: italic;
+}
+
+.bottom-line {
+	font-size: 12px;
+	margin:20px;
+}
+
+.section-heading {
+  font-size: 36px;
+  margin-top: 60px;
+  font-weight: 700
+}
+
+.fig {
+  padding-top: 0;
+}
+
+.figcap {
+  padding: 0.5em;
+  	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+/*.caption-text {
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	margin-bottom: 20px;
+}*/
+
+.fa-stack {
+	color: grey;
+}
+
+.copyright {
+	font-size: 12px;
+}
+
+
+.modal-static {
+    position: fixed;
+    top: 50% !important;
+    left: 50% !important;
+    margin-top: -100px;
+    margin-left: -100px;
+    overflow: visible !important;
+}
+.modal-static,
+.modal-static .modal-dialog,
+.modal-static .modal-content {
+    width: 200px;
+    height: 200px;
+}
+.modal-static .modal-dialog,
+.modal-static .modal-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.modal-static .modal-content .icon {
+}
