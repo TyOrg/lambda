@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is:		**********	Sir Bennet
 
-I like to:
+I like to:		**********  Do things
 
-I'm learning:
+I'm learning:	**********	(shoring up) front end coding 
 
 ```
 
