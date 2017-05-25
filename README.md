@@ -9,7 +9,7 @@ Lessons: {
   lessons [
     {"lesson1_url" : " https://codepen.io/godcsu/pen/mmGeOo "},
     {"lesson2_url" : " https://codepen.io/godcsu/pen/bWxVaE "},
-    {"lesson3_url" : " https://github.com/godcsu/lambda/h3 , https://github.com/godcsu/lambda/ , https://github.com/godcsu/lambda/ , https://github.com/godcsu/lambda "}
+    {"lesson3_url" : " https://github.com/godcsu/lambda/tree/master/h3 , https://github.com/godcsu/lambda/ , https://github.com/godcsu/lambda/ , https://github.com/godcsu/lambda "}
   ]
 }
 
