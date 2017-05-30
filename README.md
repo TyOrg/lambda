@@ -13,7 +13,8 @@ Lessons: {
                        https://github.com/godcsu/helloLambdaSchool , 
                        https://github.com/godcsu/helloLambdaUniversity , 
                        https://github.com/godcsu/helloLambdaExtra2 "},
-    {"lesson4_url" : " https://github.com/godcsu/lambda/tree/master/h4"}
+    {"lesson4_url" : " https://github.com/godcsu/lambda/tree/master/h4, 
+                       https://codepen.io/godcsu/pen/QvXoOG"}
   ]
 }
 ```
