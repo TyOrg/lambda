@@ -14,7 +14,9 @@ Lessons: {
                        https://github.com/godcsu/helloLambdaUniversity , 
                        https://github.com/godcsu/helloLambdaExtra2 "},
     {"lesson4_url" : " https://github.com/godcsu/lambda/tree/master/h4, 
-                       https://codepen.io/godcsu/pen/QvXoOG"}
+                       https://codepen.io/godcsu/pen/QvXoOG"},
+    {"lesson5_url" : " https://github.com/godcsu/lambda/tree/master/h5,
+                       https://github.com/godcsu/lswebhomework5"}
   ]
 }
 ```
