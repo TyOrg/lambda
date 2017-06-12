@@ -3,13 +3,15 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+	
+	```	
 	* Array - santas bag of things. 
 
 	* Object - a thing in the bag which may contain other things
 
 	* Method - 'How much money[elements] is in my wallet[object], in back pocket of my pants[array]?' is found out by asking the question like this:  bag.length;  this returns the number of items in the bag[arraay]. { who, what, when, where, why answers about your data.}
-
+  ```
+  
 3. Fork and clone this repo.  When you need to commit use the following commands.
 		
 	* git status
