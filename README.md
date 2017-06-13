@@ -3,9 +3,7 @@ bootcampFiles
 
 this will be repository for all my bootCamp files. just need a place that isnt on multiple machines or movable storage (smile) too many machines
 
-[H1](https://codepen.io/godcsu/pen/mmGeOo)
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-<a href="https://codepen.io/godcsu/pen/mmGeOo" target="_blank">LINK to Homework 1, the all-in-one</a>
+[LINK: Homework 1 (all-in-one)](https://codepen.io/godcsu/pen/mmGeOo)
 
 ```
 Lessons: { 
