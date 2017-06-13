@@ -2,7 +2,7 @@
 bootcampFiles
 
 this will be repository for all my bootCamp files. just need a place that isnt on multiple machines or movable storage (smile) too many machines
-
+```
 LINKS: (use ctrl+click to open in new tab)
 [Homework 1 (all-in-one)](https://codepen.io/godcsu/pen/mmGeOo)
 [Homework 2 ](https://codepen.io/godcsu/pen/bWxVaE)
@@ -17,7 +17,7 @@ LINKS: (use ctrl+click to open in new tab)
 [Homework 6 (codeRepo)](https://github.com/godcsu/lambda/tree/master/h6)
 [Homework 7 (codeRepo)](https://github.com/godcsu/lambda/tree/master/h7)
 [Homework 8 (codeRepo)](https://github.com/godcsu/lambda/tree/master/h8)
-
+```
 
 ```
 Lessons: { 
