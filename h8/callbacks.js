@@ -22,6 +22,7 @@ var foods = ['pineapple', 'mango', 'ribeye', 'curry', 'tacos', 'ribeye', 'mango'
 function firstItem(arr, cb){
   var food = arr[0];
   cb(food);
+  //cb(arr[0]);
 };
 
 firstItem(foods, (firstItem) => {
@@ -32,6 +33,7 @@ firstItem(foods, (firstItem) => {
 function getLength(arr, cb){
   var len = arr.length;
   cb(len);
+  //cb(arr.length);
 };
 
 getLength(foods, (length) => {
@@ -42,6 +44,8 @@ getLength(foods, (length) => {
 function last(arr, cb){
   var lst = arr[arr.length-1];
   cb(lst);
+  //cb(arr.pop());
+
 };
 last(foods, (lastItem) => {
   console.log('The last item in the array is ' + lastItem);
@@ -51,6 +55,7 @@ last(foods, (lastItem) => {
 function sumNums(x, y, cb){
   var sum = x + y;
   cb(sum);
+  //cb(x+y);
 };
 
 sumNums(5, 10, (sum) => {
@@ -61,6 +66,7 @@ sumNums(5, 10, (sum) => {
 function multiplyNums(x, y, cb){
   var prd = x * y;
   cb(prd);
+  //cb(x*y);
 };
 
 multiplyNums(5, 10, (product) => {
@@ -72,7 +78,8 @@ multiplyNums(5, 10, (product) => {
 function contains(arr, itm, cb){
 	var itm = arr.indexOf(itm);
   cb(itm);
-};
+  //cb(true);
+}; // else { cb(false);}
 
 contains(foods, 'ribeye', (result) => {
   console.log(result ? 'ribeye is in the array' : 'ribeye is not in the array');
@@ -108,3 +115,5 @@ forEach(foods, (value, index) => {
   console.log(value + '${value} is at index ' + index);
   console.log(value + ' is at index ' + index); //incase the one above doestnt work; like it doesnt in JSFIDDLE
 });
+
+///added remarked modifications
